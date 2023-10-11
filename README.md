@@ -12,3 +12,4 @@ https://www.bigocheatsheet.com/
 https://flexiple.com/algorithms/big-o-notation-cheat-sheet
 good recap video
 https://youtu.be/__vX2sjlpXU
+page 50 in cracking the coding interview
